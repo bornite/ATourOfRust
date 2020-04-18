@@ -1,7 +1,9 @@
 ATourOfRust
 ====
 
-Sample code for "The Rust Programming Language: 2nd Edition"
+Sample code for "Rust by Example"
+
+See. https://doc.rust-lang.org/stable/rust-by-example/
 
 ## Description
 
